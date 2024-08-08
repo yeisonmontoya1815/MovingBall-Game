@@ -17,7 +17,7 @@ To start playing the game, visit the following link:
 ## How It Works
 
 - **JavaScript Animation**: The ball's movement is controlled by JavaScript using a simple animation loop.
-- **Speed Slider**: Adjust the slider in the top-left corner to control the ball's speed. The ball moves faster or slower based on the slider's position.
+- **Speed Slider**: Adjust the slider to control the ball's speed. The ball moves faster or slower based on the slider's position.
 - **Random Direction**: The ball occasionally changes direction to add a challenge to the game.
 - **Explosion Effect**: Clicking on the ball will cause it to explode, adding a fun element to your gaming experience.
 
