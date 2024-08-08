@@ -5,7 +5,7 @@ Welcome to the Moving Ball Game! This fun and interactive game features a soccer
 ## Features
 
 - **Ball Movement**: The ball moves back and forth across the screen.
-- **Speed Control**: Use the slider in the top-left corner to adjust the ball's speed.
+- **Speed Control**: Use the slider to adjust the ball's speed.
 - **Random Movement**: The ball changes direction randomly to keep the game exciting.
 - **Ball Explosion**: Click on the moving ball to trigger a spectacular explosion effect!
 
