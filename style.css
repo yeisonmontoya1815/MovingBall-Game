@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #2f2e2e;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 2em;
+  color: #ffffff;
+}
+
+#game-container {
+  position: relative;
+  width: 100%;
+  height: 80vh;
+  background-color: #fff;
+  background-image: url("soccerField.jpg");
+  background-size: cover;
+  background-position: center;
+
+  border: 2px solid #ddd;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#ball {
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+
+#ball:active {
+  transform: scale(1.1);
+}
+
+#score {
+  margin-top: 20px;
+  font-size: 1.5em;
+  color: #ffffff;
+}
+
+#controls {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: #ffffff;
+}
+
+#velocity {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
