@@ -57,3 +57,33 @@ button {
   font-size: 1em;
   cursor: pointer;
 }
+
+ @media (max-width: 768px) {
+            h1 {
+                font-size: 1.5em;
+            }
+
+            #score, #controls {
+                font-size: 1em;
+            }
+
+            button {
+                padding: 8px 16px;
+                font-size: 0.9em;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.2em;
+            }
+
+            #score, #controls {
+                font-size: 0.8em;
+            }
+
+            button {
+                padding: 6px 12px;
+                font-size: 0.8em;
+            }
+        }
