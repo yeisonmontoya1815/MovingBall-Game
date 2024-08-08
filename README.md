@@ -12,7 +12,7 @@ Welcome to the Moving Ball Game! This fun and interactive game features a soccer
 ## Getting Started
 
 To start playing the game, visit the following link:
-[Play the Moving Ball Game](https://github.com/yeisonmontoya1815/MovingBall-Game/blob/master/index.html)
+[Play the Moving Ball Game](https://yeisonmontoya1815.github.io/MovingBall-Game/)
 
 ## How It Works
 
